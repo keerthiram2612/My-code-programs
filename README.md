@@ -3,7 +3,7 @@ GitHub Desktop tutorial repository
 <h1 align="center">Hi 👋, I'm keerthana</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile%20views&color=0e75b6&style=flat" alt="keerthiram2612" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=keerthiram2612&label=Profile%20views&color=0e75b6&style=flat" alt="keerthiram2612" /> </p>
 <a href="#keerthiram2612-title">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthiram2612&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Keerthana R" align="right" />
 </a>
@@ -188,7 +188,7 @@ GitHub Desktop tutorial repository
 </table>
 
 
-[![Vairamuthu's github activity graph](https://activity-graph.herokuapp.com/graph?username=vmmuthu31&theme=react-dark)](https://github.com/vmmuthu31)
+[!keerthana github activity](https://activity-graph.herokuapp.com/graph?username=keerthiram2612&theme=react-dark)](https://github.com/keerthiram2612)
 
 
 
