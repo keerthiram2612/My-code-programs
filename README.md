@@ -188,7 +188,7 @@ GitHub Desktop tutorial repository
 </table>
 
 
-[!keerthana github activity](https://activity-graph.herokuapp.com/graph?username=keerthiram2612&theme=react-dark)](https://github.com/keerthiram2612)
+[![keerthana github activity](https://activity-graph.herokuapp.com/graph?username=keerthiram2612&theme=react-dark)](https://github.com/keerthiram2612)
 
 
 
